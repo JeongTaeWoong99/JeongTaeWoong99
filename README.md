@@ -5,9 +5,9 @@
 게임 개발에 흥미를 가지고, 여러 가지 프로젝트를 진행해 보았습니다.  
 한 번 시작한 일은 끝을 봐야 하는 성격을 가지고 있어, 끈기 있게 작업을 수행합니다.
 
-## 📌 SKILLS
+## 🧰 SKILLS
 
-### 🛠️ Main Tech Stack
+### 🔧 Main Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -17,17 +17,17 @@
 
 ---
 
-### 🔧 Experience & Tools
+### 🖥️ Back-End & Tools
 
 #### ☁️ Firebase
 
 <p>
   <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 
-#### 🌐 Networking
+#### 🌐 Networking / Multiplayer
 
 <p>
   <img src="https://img.shields.io/badge/Photon-3498DB?style=for-the-badge&logo=photon&logoColor=white"/>

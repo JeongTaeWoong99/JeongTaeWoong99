@@ -17,7 +17,7 @@
 
 ---
 
-### 🖥️ Back-End & Tools
+### 🔧 Experience & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>

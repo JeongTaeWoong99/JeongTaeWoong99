@@ -17,8 +17,8 @@
 ### ⚙️ Experienced With  
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>

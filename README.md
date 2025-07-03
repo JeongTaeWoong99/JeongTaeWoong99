@@ -24,3 +24,9 @@
   <img src="https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photon-3498DB?style=for-the-badge&logo=photon&logoColor=white"/>
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dedicated_Server-007ACC?style=for-the-badge"/>
+</p>

@@ -4,7 +4,7 @@
 한 번 시작한 일은 끝을 봐야 하는 성격을 가지고 있어, 끈기 있게 작업을 수행합니다.
 
 ## 📌 Contact
-이메일: jto0402@nave.com
+이메일 : jto0402@nave.com
 
 ## 📌 SKILLS
 ### 🔧 Core Stack  

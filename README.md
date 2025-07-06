@@ -18,6 +18,7 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCP%20Socket-333333?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photon-3498DB?style=for-the-badge&logo=photon&logoColor=white"/>
 </p>

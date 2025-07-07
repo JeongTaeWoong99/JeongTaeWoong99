@@ -7,7 +7,7 @@
 
 
 ## 📌 Contact
-이메일 : jto0402@nave.com
+이메일 : jto0402@naver.com
 
 
 ## 📌 SKILLS

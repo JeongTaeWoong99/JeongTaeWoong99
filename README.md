@@ -10,15 +10,10 @@
 이메일 : jto0402@naver.com
 
 
-## 📌 SKILLS
-### 🔧 Core Stack  
+## 📌 Core Stack & Experienced With  
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
-
-### ⚙️ Experienced With  
-<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/TCP%20Socket-333333?style=for-the-badge&logo=socketdotio&logoColor=white"/>

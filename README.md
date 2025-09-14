@@ -6,12 +6,12 @@
 끈기 있는 성격 덕분에 맡은 일은 끝까지 책임지고 완수하며, 그 과정에서 더 나은 결과를 만들기 위해 꾸준히 노력해 왔습니다. 
 
 앞으로도 함께하는 사람들과 도전을 이어가며, 플레이어에게 즐거움과 몰입을 주는 게임을 만들어가고자 합니다.
-
-
+ 
+ 
 ## 📌 Contact
 이메일 : jto0402@naver.com
-
-
+ 
+ 
 ## 📌 Core Stack & Experienced With  
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photon-3498DB?style=for-the-badge&logo=photon&logoColor=white"/>
 </p>
-
-
+ 
+ 
 ## 📌 Project Timeline
 | 연도 | 이름 | 설명 | 역할 |
 |------|----------|------|------|

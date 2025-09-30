@@ -11,7 +11,7 @@
 ## 📌 Contact & Website
 Email : jto0402@naver.com
 
-Blog : [바로가기](https://tae-woong.tistory.com/)
+Blog : [Link](https://tae-woong.tistory.com/)
  
 ## 📌 Core Stack & Experienced With  
 <p>

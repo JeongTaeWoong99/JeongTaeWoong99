@@ -8,9 +8,9 @@
 앞으로도 함께하는 사람들과 도전을 이어가며, 플레이어에게 즐거움과 몰입을 주는 게임을 만들어가고자 합니다.
  
  
-## 📌 Contact
+## 📌 Contact & Blog
 이메일 : jto0402@naver.com
- 
+블로그 : [바로가기](https://tae-woong.tistory.com/)
  
 ## 📌 Core Stack & Experienced With  
 <p>

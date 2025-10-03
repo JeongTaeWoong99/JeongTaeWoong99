@@ -1,7 +1,13 @@
 ## 📌 Contact & Blog
-E-mail : jto0402@naver.com
+<p>
+  <a href="mailto:jto0402@naver.com">
+    <img src="https://img.shields.io/badge/E--mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+  <a href="https://tae-woong.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-F36F24?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+</p>
 
-Tstory : <a href="https://tae-woong.tistory.com/"> <img src="https://img.shields.io/badge/Blog-F35426?style=for-the-badge&logo=tistory&logoColor=white"/> </a>
  
 ## 📌 Core Stack & Experienced With
 <h3>Engine & Languages</h3>
@@ -22,9 +28,10 @@ Tstory : <a href="https://tae-woong.tistory.com/"> <img src="https://img.shields
 <h3>Tools & Collaboration</h3>
 <p>
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
 </p>
  
  

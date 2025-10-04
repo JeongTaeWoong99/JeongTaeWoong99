@@ -1,11 +1,7 @@
 ## 📌 Contact & Blog
 <p>
-  <a href="mailto:jto0402@naver.com">
-    <img src="https://img.shields.io/badge/E--mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>
-  <a href="https://tae-woong.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-F35426?style=for-the-badge&logo=tistory&logoColor=white"/>
-  </a>
+  <a href="mailto:jto0402@naver.com"><img src="https://img.shields.io/badge/E--mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="https://tae-woong.tistory.com/"><img src="https://img.shields.io/badge/Blog-F35426?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </p>
 
  
